@@ -1,5 +1,5 @@
 Enes Laptop: 1
 Aydın Laptop: 0
-Ahmet: 1
+Ahmet: 0
 Selim: 1
 Mehmet: 0
