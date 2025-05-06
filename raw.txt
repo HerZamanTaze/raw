@@ -1,5 +1,5 @@
 Admin1: 1
 Admin2: 1
-Ahmet: 1
+Ahmet: 0 - uyarı ödeme yapınız
 Selim: 0
 Mehmet: 1
