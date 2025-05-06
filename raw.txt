@@ -1,5 +1,5 @@
-Enes Laptop: 1
-Aydın Laptop: 0
+Admin1: 1
+Admin2: 1
 Ahmet: 1
-Selim: 1
-Mehmet: 0
+Selim: 0
+Mehmet: 1
