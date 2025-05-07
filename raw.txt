@@ -1,4 +1,4 @@
-ID: test PW: test Kredi: 0
+ID: test PW: test Kredi: 0 - KTEDİN YOK LAN
 Admin1: 1
 Admin2: 1
 Ahmet: 1
