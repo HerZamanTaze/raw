@@ -1,7 +1,6 @@
-ID: test PW: test Kredi: 0 - lütfen ödeme yapınız. ödeme bilgileri için temsilciniz ile iletişime geçiniz.
 Admin1: 1
 Admin2: 1
-Ahmet: 1
+Ahmet: 0
 Selim: 0
 Mehmet: 1
 
