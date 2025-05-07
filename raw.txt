@@ -1,5 +1,5 @@
 Admin1: 1
 Admin2: 1
-Ahmet: 0 - Lütfen Ödemenizi Yapınız. Bilgi ve İletişim için +90 531 733 7753 numaralı temsilciniz ile görüşünüz.
+Ahmet: 1
 Selim: 0
 Mehmet: 1
