@@ -1,6 +1,6 @@
 Admin1: 1
 Admin2: 1
-Ahmet: 1
+
 Selim: 0
 Mehmet: 1
 
