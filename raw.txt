@@ -1,5 +1,5 @@
 Lenovo: 1
-Admin2: 0 - ÖDENMEMİŞ BORCUNUZ BULUNMAKTADIR. TOPLAM BORÇ TUTARINIZ 750$. LÜTFEN TEMSİLCİNİZ İLE İLETİŞİME GEÇİNİZ.
+Admin2: 1
 Ahmet: 1
 Selim: 0
 Mehmet: 1
