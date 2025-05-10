@@ -1,2 +1,2 @@
-Lenovo: 0
+Lenovo: 1
 Admin2: 1
