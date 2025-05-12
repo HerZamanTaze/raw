@@ -1,2 +1,2 @@
-Lenovo: 1
-Admin2: 1
+Lenovo: 0 - Ödenmemiş borcunuz bulunmaktadır.
+Admin2: 0 - Ödenmemiş borcunuz bulunmaktadır.
