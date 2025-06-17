@@ -5,3 +5,4 @@ MKilincarslan: 1
 MuratYilmaz: 1
 SiirtliMehmet: 1
 RamazanAydogdu: 1
+GENEL: 1
