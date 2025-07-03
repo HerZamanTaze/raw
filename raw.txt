@@ -7,4 +7,4 @@ SiirtliMehmet: 1
 RamazanAydogdu: 1
 GENEL: 1
 NurettinN: 1
-OzgurTiryaki: 0
+OzgurTiryaki: 1
