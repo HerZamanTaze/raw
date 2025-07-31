@@ -9,4 +9,4 @@ GENEL: 0
 NurettinN: 1
 OzgurTiryaki: 0
 Engin3399: 1
-ibrahim7020: 1
+ibrahim7020: 0
