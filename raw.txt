@@ -10,3 +10,4 @@ NurettinN: 1
 OzgurTiryaki: 0
 Engin3399: 1
 ibrahim7020: 0
+ElinSoft: 1
