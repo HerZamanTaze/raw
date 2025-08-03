@@ -12,3 +12,13 @@ Engin3399: 1
 ibrahim7020: 0
 ElinSoft: 1
 Oner2032: 1
+Musteri1: 1
+Musteri2: 1
+Musteri3: 1
+Musteri4: 1
+Musteri5: 1
+Musteri6: 1
+Musteri7: 1
+Musteri8: 1
+Musteri9: 1
+Musteri10: 1
