@@ -17,7 +17,7 @@ Musteri2: 0
 Musteri3: 0
 Musteri4: 0
 Musteri5: 0
-Musteri6: 0
+Musteri6: 1
 Musteri7: 0
 Musteri8: 0
 Musteri9: 0
