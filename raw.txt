@@ -8,10 +8,10 @@ RamazanAydogdu: 0
 GENEL: 0
 NurettinN: 1
 OzgurTiryaki: 0
-Engin3399: 1
+Engin3399: 0
 ibrahim7020: 0
 ElinSoft: 1
-Oner2032: 1
+Oner2032: 0
 Musteri1: 0
 Musteri2: 0
 Musteri3: 0
