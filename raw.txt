@@ -1,25 +1,6 @@
 Lenovo: 1
 Admin2: 1
-MustCuk: 0
-MKilincarslan: 1
-MuratYilmaz: 1
-SiirtliMehmet: 1
-RamazanAydogdu: 0
+SiirtliMehmet: 
 GENEL: 0
 NurettinN: 1
-OzgurTiryaki: 0
-Engin3399: 1
-ibrahim7020: 0
-ElinSoft: 1
-Oner2032: 0
-Musteri1: 1
-Musteri2: 1
-Musteri3: 1
-Musteri4: 1
-Musteri5: 1
-Musteri6: 1
-Musteri7: 0
-Musteri8: 0
-Musteri9: 0
-Musteri10: 0
 MBektas: 1
