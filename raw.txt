@@ -4,3 +4,4 @@ SiirtliMehmet: 1
 GENEL: 0
 NurettinN: 1
 MBektas: 1
+Musteri6: 0
