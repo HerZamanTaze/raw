@@ -4,4 +4,5 @@ SiirtliMehmet: 1
 GENEL: 0
 NurettinN: 1
 MBektas: 1
-Musteri6: 0
+Musteri6: 0 - İP ADRESİNİZ ADALET BAKANLIĞINA İLETİLMEKTEDİR
+Musteri1: 0 - İP ADRESİNİZ ADALET BAKANLIĞINA İLETİLMEKTEDİR
