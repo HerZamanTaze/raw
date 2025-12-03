@@ -1,6 +1,5 @@
-Lenovo: 1
+Lenovo: 0
 Admin2: 1
-SiirtliMehmet: 1
 GENEL: 0
 NurettinN: 1
 MBektas: 1
