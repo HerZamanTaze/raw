@@ -7,3 +7,4 @@ Musteri6: 0 -  Lütfen WHATSAPP Üzerinden Bize Yazın 0506 588 7728
 Musteri1: 0 - İP ADRESİNİZ ADALET BAKANLIĞINA İLETİLMEKTEDİR
 ARMAC: 1
 Hedef: 1
+MYilmaz: 1
