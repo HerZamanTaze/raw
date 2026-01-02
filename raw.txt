@@ -3,6 +3,7 @@ Admin2: 1
 GENEL: 0
 NurettinN: 1
 MBektas: 1
+Aoz: 1
 Musteri6: 0 -  Lütfen WHATSAPP Üzerinden Bize Yazın 0506 588 7728
 Musteri1: 0 - İP ADRESİNİZ ADALET BAKANLIĞINA İLETİLMEKTEDİR
 ARMAC: 1
